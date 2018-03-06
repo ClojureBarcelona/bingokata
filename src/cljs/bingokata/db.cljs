@@ -2,4 +2,4 @@
 
 (def default-db
   {:name "re-frame"
-   :actual-card {:b [1]}})
+   :actual-card nil})
